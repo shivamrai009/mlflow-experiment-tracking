@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# MLflow local DB (auto-generated)
+mlflow.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS / Editor files
+.DS_Store
